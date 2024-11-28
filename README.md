@@ -53,9 +53,10 @@ Screenshots
 
 
 Additional Notes:
-• The dataset is fictional and used solely for the purpose of demonstrating data analysis and
+• The dataset is used solely for the purpose of demonstrating data analysis and
 visualization techniques.
 • For more advanced users, additional scripts and custom calculations are included in the
 project folder for deeper analysis.
+
 License:
 This project is licensed under the MIT License.
