@@ -48,7 +48,7 @@ Key metrics visualized include:
 - **Turnover Rate**: Tracking the rate at which employees leave the organization
 - The average employment tenure for terminated employees is 8 years
 - Department of Marketing and Accounting has the highest turnover rate at 65%
-- Active employees total N, with the most employees in department A
+- Active employees total 17,000 out of 22,000 with the most employees in department of Ebgineering
 
 
 Screenshots
